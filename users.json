@@ -1,1 +1,12 @@
-{"users":[{"username":"test","password":"ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae"}]}
+{
+  "users": [
+    {
+      "username": "test",
+      "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae"
+    },
+    {
+      "username": "sl1wed",
+      "password": "a7422bd8309af63b415ccf7f5ea68a6a6aa617fdaedbc835e1539f9078fcb954"
+    }
+  ]
+}
